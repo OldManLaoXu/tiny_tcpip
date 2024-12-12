@@ -1,0 +1,10 @@
+^D:\GITHUB\TINY_TCPIP\BUILD\CMAKEFILES\F50A8AC8613653FDCE247E2AD365A83D\GENERATE.STAMP.RULE
+setlocal
+D:\software\CMake\bin\cmake.exe -SD:/github/tiny_tcpip -BD:/github/tiny_tcpip/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/github/tiny_tcpip/build/net.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
