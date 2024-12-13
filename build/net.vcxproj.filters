@@ -19,6 +19,9 @@
     <ClCompile Include="D:\github\tiny_tcpip\src\net\src\net.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\github\tiny_tcpip\src\net\src\nlist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="D:\github\tiny_tcpip\src\plat\net_plat.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -46,6 +49,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\github\tiny_tcpip\src\net\net\net_err.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\github\tiny_tcpip\src\net\net\nlist.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\github\tiny_tcpip\src\plat\net_plat.h">

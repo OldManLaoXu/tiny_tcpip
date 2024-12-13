@@ -24,7 +24,7 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-      鐢熸垚鍚姩鏃堕棿涓?2024/12/12 15:08:02銆?
+      鐢熸垚鍚姩鏃堕棿涓?2024/12/13 14:46:41銆?
       
       鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\3.31.2\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:00.77
+      宸茬敤鏃堕棿 00:00:00.98
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-      鐢熸垚鍚姩鏃堕棿涓?2024/12/12 15:08:03銆?
+      鐢熸垚鍚姩鏃堕棿涓?2024/12/13 14:46:42銆?
       
       鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\3.31.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:00.77
+      宸茬敤鏃堕棿 00:00:00.87
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-bt3e6f"
-      binary: "D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-bt3e6f"
+      source: "D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-leui2p"
+      binary: "D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-leui2p"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -137,40 +137,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-bt3e6f'
+        Change Dir: 'D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-leui2p'
         
-        Run Build Command(s): "D:/software/Visual Studio/Visual Studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_74635.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "D:/software/Visual Studio/Visual Studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_12594.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-        鐢熸垚鍚姩鏃堕棿涓?2024/12/12 15:08:04銆?
+        鐢熸垚鍚姩鏃堕棿涓?2024/12/13 14:46:43銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bt3e6f\\cmTC_74635.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-leui2p\\cmTC_12594.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_74635.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_12594.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bt3e6f\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_74635.dir\\Debug\\cmTC_74635.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-leui2p\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_12594.dir\\Debug\\cmTC_12594.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_74635.dir\\Debug\\cmTC_74635.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_74635.dir\\Debug\\cmTC_74635.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_12594.dir\\Debug\\cmTC_12594.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_12594.dir\\Debug\\cmTC_12594.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          D:\\software\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_74635.dir\\Debug\\\\" /Fd"cmTC_74635.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\software\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          D:\\software\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_12594.dir\\Debug\\\\" /Fd"cmTC_12594.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\software\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_74635.dir\\Debug\\\\" /Fd"cmTC_74635.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\software\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_12594.dir\\Debug\\\\" /Fd"cmTC_12594.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\software\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          D:\\software\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bt3e6f\\Debug\\cmTC_74635.exe" /INCREMENTAL /ILK:"cmTC_74635.dir\\Debug\\cmTC_74635.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-bt3e6f/Debug/cmTC_74635.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-bt3e6f/Debug/cmTC_74635.lib" /MACHINE:X64  /machine:x64 cmTC_74635.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_74635.vcxproj -> D:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bt3e6f\\Debug\\cmTC_74635.exe
+          D:\\software\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-leui2p\\Debug\\cmTC_12594.exe" /INCREMENTAL /ILK:"cmTC_12594.dir\\Debug\\cmTC_12594.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-leui2p/Debug/cmTC_12594.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-leui2p/Debug/cmTC_12594.lib" /MACHINE:X64  /machine:x64 cmTC_12594.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_12594.vcxproj -> D:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-leui2p\\Debug\\cmTC_12594.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_74635.dir\\Debug\\cmTC_74635.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_74635.dir\\Debug\\cmTC_74635.tlog\\cmTC_74635.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bt3e6f\\cmTC_74635.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_12594.dir\\Debug\\cmTC_12594.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_12594.dir\\Debug\\cmTC_12594.tlog\\cmTC_12594.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-leui2p\\cmTC_12594.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.80
+        宸茬敤鏃堕棿 00:00:00.84
         
       exitCode: 0
   -
@@ -210,8 +210,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-89hud7"
-      binary: "D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-89hud7"
+      source: "D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-xhr0ic"
+      binary: "D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-xhr0ic"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -221,40 +221,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-89hud7'
+        Change Dir: 'D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-xhr0ic'
         
-        Run Build Command(s): "D:/software/Visual Studio/Visual Studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a0656.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "D:/software/Visual Studio/Visual Studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_74f85.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-        鐢熸垚鍚姩鏃堕棿涓?2024/12/12 15:08:05銆?
+        鐢熸垚鍚姩鏃堕棿涓?2024/12/13 14:46:44銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-89hud7\\cmTC_a0656.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhr0ic\\cmTC_74f85.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_a0656.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_74f85.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-89hud7\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_a0656.dir\\Debug\\cmTC_a0656.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhr0ic\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_74f85.dir\\Debug\\cmTC_74f85.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_a0656.dir\\Debug\\cmTC_a0656.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_a0656.dir\\Debug\\cmTC_a0656.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_74f85.dir\\Debug\\cmTC_74f85.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_74f85.dir\\Debug\\cmTC_74f85.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          D:\\software\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a0656.dir\\Debug\\\\" /Fd"cmTC_a0656.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\software\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          D:\\software\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_74f85.dir\\Debug\\\\" /Fd"cmTC_74f85.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\software\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a0656.dir\\Debug\\\\" /Fd"cmTC_a0656.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\software\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_74f85.dir\\Debug\\\\" /Fd"cmTC_74f85.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\software\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          D:\\software\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-89hud7\\Debug\\cmTC_a0656.exe" /INCREMENTAL /ILK:"cmTC_a0656.dir\\Debug\\cmTC_a0656.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-89hud7/Debug/cmTC_a0656.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-89hud7/Debug/cmTC_a0656.lib" /MACHINE:X64  /machine:x64 cmTC_a0656.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_a0656.vcxproj -> D:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-89hud7\\Debug\\cmTC_a0656.exe
+          D:\\software\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhr0ic\\Debug\\cmTC_74f85.exe" /INCREMENTAL /ILK:"cmTC_74f85.dir\\Debug\\cmTC_74f85.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-xhr0ic/Debug/cmTC_74f85.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/github/tiny_tcpip/build/CMakeFiles/CMakeScratch/TryCompile-xhr0ic/Debug/cmTC_74f85.lib" /MACHINE:X64  /machine:x64 cmTC_74f85.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_74f85.vcxproj -> D:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhr0ic\\Debug\\cmTC_74f85.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_a0656.dir\\Debug\\cmTC_a0656.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_a0656.dir\\Debug\\cmTC_a0656.tlog\\cmTC_a0656.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-89hud7\\cmTC_a0656.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_74f85.dir\\Debug\\cmTC_74f85.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_74f85.dir\\Debug\\cmTC_74f85.tlog\\cmTC_74f85.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\github\\tiny_tcpip\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhr0ic\\cmTC_74f85.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.80
+        宸茬敤鏃堕棿 00:00:00.81
         
       exitCode: 0
   -
