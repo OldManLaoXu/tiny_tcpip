@@ -6,6 +6,8 @@
 #include "netif_pcap.h"
 #include "dbg.h"
 #include "nlist.h"
+#include "mblock.h"
+
 
 net_err_t netdev_init(){
 	netif_pcap_open();
@@ -70,8 +72,30 @@ void nlist_test(void){
 	}
 }
 
+void mblock_test(){
+	mblock_t blist;
+	static uint8_t buffer[100][10];
+
+	mblock_init(&blist, buffer, 100, 10, NLCOKER_THREAD);
+
+	void *temp[10];
+	for(int i = 0; i < 10; i++){
+		temp[i] = mblock_alloc(&blist, 0);
+		plat_printf("block: %p, free_count :%d\n", temp[i], mblock_free_cnt(&blist));
+	}
+
+
+	for(int i = 0; i < 10; i++){
+		mblock_free(&blist, temp[i]);
+		plat_printf("free_count :%d\n", mblock_free_cnt(&blist));
+	}
+
+	mblock_destroy(&blist);
+}
+
 void basic_test(void){
-	nlist_test();
+	//nlist_test();
+	mblock_test();
 }
 
 

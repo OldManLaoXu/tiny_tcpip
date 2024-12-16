@@ -10,7 +10,7 @@ LINK_DIRECTORIES(
     #${PROJECT_SOURCE_DIR}/lib/npcap/Lib/             # win32使用
 )
 
-# 给visual studio编译器使用的宏，Enable GCC debug
+# 给visual studio编译器使用的宏，Enable GCC debug 
 add_definitions(-D_CRT_SECURE_NO_WARNINGS)
 
 # 头文件搜索路径，使得c文件中可以直接使用#include "xxx.h"，而不必加前缀
